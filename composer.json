@@ -1,21 +1,12 @@
 {
-    "name": "juxhinb7/thasos-php",            
-    "description": "A brief description of your library",
+    "name": "juxhinb7/thasos-php",
     "type": "library",
-    "require": {
-        "php": ">=7.2"                          
-    },
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Juxhinb7\\ThasosPHP\\": "src/"   
-        },
-        "files": ["index.php"]
-    },
-    "license": "MIT",                           
-    "authors": [
-        {
-            "name": "Juxhin",
-            "email": "ericksenb85@gmail.com"
+            "Juxhinb7\\ThasosPhp\\": "src/"
         }
-    ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
 }
