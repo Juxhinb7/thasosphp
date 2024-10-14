@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Juxhinb7\\ThasosPhp\\": "src/"
+            "Juxhinb7\\ThasosPhp\\": ""
         }
     },
     "minimum-stability": "dev",
