@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ThasosPHP\\": ["public", "conf", "lib", "views", "exceptions"]
+            "ThasosPHP\\": "src/"
         }
     },
     "authors": [
