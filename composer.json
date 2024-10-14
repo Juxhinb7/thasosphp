@@ -1,12 +1,19 @@
 {
     "name": "juxhinb7/thasos-php",
     "type": "library",
+    "description": "Web framework for PHP 8.0",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Juxhin"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
     "autoload": {
         "psr-4": {
-            "Juxhinb7\\ThasosPhp\\": ""
+            "ThasosPHP\\": "src"
         }
-    },
-    "minimum-stability": "dev",
-    "require": {}
+    }
 }
