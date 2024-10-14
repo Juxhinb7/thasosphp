@@ -1,0 +1,18 @@
+{
+    "name": "juxhinb7/thasos-php",
+    "description": "ThasosPHP is an lightweight and extensible web framework built with PHP.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ThasosPHP\\": ["public", "conf", "lib", "views", "exceptions"]
+        }
+    },
+    "authors": [
+        {
+            "name": "Juxhin"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
