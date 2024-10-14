@@ -8,7 +8,8 @@
     "autoload": {
         "psr-4": {
             "Juxhinb7\\ThasosPHP\\": "src/"   
-        }
+        },
+        "files": ["index.php"]
     },
     "license": "MIT",                           
     "authors": [
