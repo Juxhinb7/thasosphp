@@ -1,3 +1,7 @@
 <?php
 
-echo "Hello" . PHP_EOL;
+class Hello {
+    public function sayHello() {
+        echo "Hello";
+    }
+}
