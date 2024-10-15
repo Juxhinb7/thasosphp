@@ -1,6 +1,6 @@
 <?php
 
-namespace Juxhinb7\ThasosPHP;
+namespace ThasosPHP;
 
 class Hello {
     public function sayHello() {
